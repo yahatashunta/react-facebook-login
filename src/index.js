@@ -1,1 +1,3 @@
-export default from './facebook';
+import FacebookLogin from './facebook';
+
+export default FacebookLogin;
